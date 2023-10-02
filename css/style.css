@@ -182,19 +182,4 @@ section > div  > span {
     margin: auto;
 
 }
-@keyframes arrow-up {
-    0%{
-        rotate: 180deg;
-    }
-    100%{
-        rotate: 0deg;
-    }
-}
-@keyframes arrow-down {
-    to{
-        rotate: 0deg;
-    }
-    from{
-        rotate: 180deg;
-    }
-}
+
